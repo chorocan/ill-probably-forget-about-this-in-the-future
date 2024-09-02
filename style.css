@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(73, 0, 182);
+    background: linear-gradient(rgb(73, 0, 182), rgb(255, 0, 183));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 150%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
